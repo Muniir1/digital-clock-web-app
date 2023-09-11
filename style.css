@@ -45,3 +45,9 @@ a{
     border-radius: 5px;
     font-weight: 700;
 }
+
+@media  screen and (max-width: 768px) {
+    .timedisplay{
+        font-size: 3rem;
+    }
+}
